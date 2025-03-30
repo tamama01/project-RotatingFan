@@ -1,5 +1,4 @@
 # learn-RotatingFan
-<p align="right"> Programmed on January, 2023. </p>
 
 ![image](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTVtcnFub3NqcjN4aDgza3hrdHgyeW5laWhtdzc0cm5kaGNibGkxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZTx0n5QpYzMsNqZb1y/giphy.gif)
 
